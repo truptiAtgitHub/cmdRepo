@@ -1,0 +1,14 @@
+Steps to Use github Deasktop
+1.create repository
+    file---->new Repository
+2.add the resources in Working directory 
+3. commit the code
+        local repository--->commit msg--->description--->click to commit
+4. Push the code to origin(server)
+5.Branch creation
+     click to current branch---->click new branch---->give to the the branch----->create
+6. Adding resources to branch
+          6.1 add the resources in Working directory 
+          6.2 commit the changes to new branch
+          6.3 push the new changes to the origin
+7. pull and merge the branch at server side
